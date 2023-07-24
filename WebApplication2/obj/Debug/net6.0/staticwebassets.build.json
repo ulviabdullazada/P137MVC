@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "kinbhpqao1cjj/AnC7gXDRhuJNQAsnbY3rUCmuZu2fw=",
+  "Source": "WebApplication2",
+  "BasePath": "_content/WebApplication2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication2\\wwwroot",
+      "Source": "WebApplication2",
+      "ContentRoot": "C:\\Users\\Ülvi\\Desktop\\SignalR\\P137MVC\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ülvi\\Desktop\\SignalR\\P137MVC\\WebApplication2\\wwwroot\\assets\\favicon.ico",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ülvi\\Desktop\\SignalR\\P137MVC\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "assets/favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Ülvi\\Desktop\\SignalR\\P137MVC\\WebApplication2\\wwwroot\\css\\styles.css",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ülvi\\Desktop\\SignalR\\P137MVC\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ülvi\\Desktop\\SignalR\\P137MVC\\WebApplication2\\wwwroot\\js\\scripts.js",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ülvi\\Desktop\\SignalR\\P137MVC\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "js/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\scripts.js"
+    }
+  ]
+}
